@@ -24,6 +24,10 @@
       "dest": "/server.js"
     },
     {
+      "src": "/register",
+      "dest": "/server.js"
+    },
+    {
       "src": "/(.*)",
       "dest": "/index.js"
     }
